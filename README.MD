@@ -1,11 +1,10 @@
 ![Imgur](https://i.imgur.com/j9JmM4L.png)
 
-# **Trilha Específica - Python**
+# **Trilha Específica - Front-end - Reactjs**
 
-## **Grupo 04**
+## **Grupo 03**
 
+- [Igor Almeida](https://github.com/igormotta92)
 - [Carlos Lopes](https://github.com/devcarlosl)
-- [Carolina Guimarães](https://github.com/carolguimari)
-- [Gizele Rodrigues da Silva](https://github.com/gizele233)
-- [Tainá Pimenta](https://github.com/TainaPimenta)
-- [João Paulo](https://github.com/)
+- [Larisse Rodrigues](https://github.com/helloLari)
+- [Natália Guimarães](https://github.com/guimaraesnatalia)
